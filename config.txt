@@ -18,7 +18,7 @@
 "region": "延安",
 
 # 生日1，在日期前加r代表农历生日
-"birthday1": {"name": "何湘涵", "birthday": "1997-11-12"},
+"birthday1": {"name": "宝贝", "birthday": "1997-11-12"},
 # 生日2
 
 
